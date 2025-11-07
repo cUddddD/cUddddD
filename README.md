@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Duong Anh Duc</h1>
 <h3 align="center">An passionate AI Engineer.</h3>
 
-- 🔭 I’m currently working on **Emotion Detection**
+- 🔭 I’m currently working on **Computer Vision Projects: Face Detection, Emotion Detection, Face Verification,...**
 
-- 🌱 I’m currently learning **Computer Vision**
-
-- 🤝 I’m looking for help with **NLP**
+- 🤝 I’m looking for help with **NLP & LLM**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cUddddD](https://github.com/cUddddD)
 
